@@ -1,0 +1,6 @@
+{
+  "name": "AcademyFlix",
+  "description": "AcademyFlix is a Netflix-style educational platform where students can browse courses, watch lessons, track progress, take quizzes, and earn certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
